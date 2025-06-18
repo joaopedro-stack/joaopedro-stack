@@ -46,7 +46,14 @@
 
 ---
 
-### 📊 Estatísticas (opcional)
+## 📊 Estatísticas do GitHub
 
-```markdown
-![João Pedro's GitHub Stats](https://github-readme-stats.vercel.app/api?username=joaopedro-stack&show_icons=true&theme=dracula)
+<div align="center">
+
+![João Pedro's GitHub Stats](https://github-readme-stats.vercel.app/api?username=joaopedro-stack&show_icons=true&theme=dracula&include_all_commits=true&count_private=true)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=joaopedro-stack&layout=compact&theme=dracula)
+
+![GitHub Streak](https://streak-stats.demolab.com?user=joaopedro-stack&theme=dracula&hide_border=true)
+
+</div>
