@@ -49,4 +49,4 @@
 ### 📊 Estatísticas (opcional)
 
 ```markdown
-![João Pedro's GitHub Stats](https://github-readme-stats.vercel.app/api?username=seu-usuario&show_icons=true&theme=dracula)
+![João Pedro's GitHub Stats](https://github-readme-stats.vercel.app/api?username=joaopedro-stack&show_icons=true&theme=dracula)
