@@ -11,10 +11,10 @@
 
 ### 🧑‍💻 Sobre mim
 
-- 💻 Atualmente focado em projetos com **React**, **Tailwind** e **.NET**
+- 💻 Atualmente focado em projetos com **React**, **Tailwind** e **Node.JS**
 - 🎯 Buscando oportunidades para crescer como desenvolvedor Front-End
 - 🌱 Aprendendo cada vez mais sobre boas práticas, design de interfaces e performance
-- 📫 Como me encontrar: **joaopedro.santana.dev@gmail.com**
+- 📫 Como me encontrar: **joaopedrobastossantana@gmail.com**
 
 ---
 
@@ -32,7 +32,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" alt="HTML5"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40" alt="CSS3"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-plain.svg" width="40" alt="Bootstrap"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" width="40" alt="Tailwind"/>
+  <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" width="40" alt="PHP"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40" alt="MySQL"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="40" alt="PostgreSQL"/>
