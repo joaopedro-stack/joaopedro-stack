@@ -54,6 +54,4 @@
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=joaopedro-stack&layout=compact&theme=dracula)
 
-![GitHub Streak](https://streak-stats.demolab.com?user=joaopedro-stack&theme=dracula&hide_border=true)
-
 </div>
