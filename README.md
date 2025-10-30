@@ -11,7 +11,7 @@
 
 ### 🧑‍💻 Sobre mim
 
-- 💻 Atualmente focado em projetos com **React**, **Tailwind** e **Node.JS**
+- 💻 Atualmente focado em projetos com **Angular**, **Typescript** e **Node.JS**
 - 🎯 Buscando oportunidades para crescer como desenvolvedor Front-End
 - 🌱 Aprendendo cada vez mais sobre boas práticas, design de interfaces e performance
 - 📫 Como me encontrar: **joaopedrobastossantana@gmail.com**
