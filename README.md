@@ -48,10 +48,7 @@
 
 ## 📊 Estatísticas do GitHub
 
-<div align="center">
-
-![João Pedro's GitHub Stats](https://github-readme-stats.vercel.app/api?username=joaopedro-stack&show_icons=true&theme=dracula&include_all_commits=true&count_private=true)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=joaopedro-stack&layout=compact&theme=dracula)
-
-</div>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=joaopedro-stack&show_icons=true&theme=dracula&include_all_commits=true&count_private=true&cache_seconds=86400" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=joaopedro-stack&layout=compact&theme=dracula&cache_seconds=86400" />
+</p>
