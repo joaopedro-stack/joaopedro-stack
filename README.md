@@ -48,7 +48,7 @@
 
 ## 📊 Estatísticas do GitHub
 
-<p align="center" display="flex">
+<p align="center">
   <img src="https://github-readme-stats-pied-phi-42.vercel.app/api?username=joaopedro-stack&show_icons=true&theme=dracula" />
   <img src="https://github-readme-stats-pied-phi-42.vercel.app/api/top-langs/?username=joaopedro-stack&layout=compact&theme=dracula" />
 </p>
