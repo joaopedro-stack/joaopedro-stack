@@ -99,9 +99,10 @@ Duas frentes que puxam minha atenção fora do dia a dia de código:
 
 ## GitHub
 
+## GitHub
+
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=joaopedro-stack&show_icons=true&count_private=true&include_all_commits=true&hide_border=true&theme=dracula" alt="Estatísticas do GitHub" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=joaopedro-stack&layout=compact&langs_count=8&hide_border=true&theme=dracula" alt="Linguagens mais usadas" />
+  <img src="./metrics.svg" alt="Estatísticas do GitHub" />
 </p>
 
 <br>
